@@ -1,3 +1,4 @@
+//ENJOY!
 #include <iostream>
 #include "gotoxy.h"
 using namespace std;
